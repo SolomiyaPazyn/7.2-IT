@@ -1,0 +1,7 @@
+﻿  UnitTest7.2 IT.cpp
+D:\programming\lab 7.2 IT\Lab 7.2 IT\UnitTest7.2 IT\UnitTest7.2 IT.cpp(36,1): error C2059: syntax error: '}'
+  (compiling source file '/UnitTest7.2%20IT.cpp')
+  
+D:\programming\lab 7.2 IT\Lab 7.2 IT\UnitTest7.2 IT\UnitTest7.2 IT.cpp(36,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '/UnitTest7.2%20IT.cpp')
+  
